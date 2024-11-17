@@ -38,6 +38,7 @@ public class BaseClass {
 	public void configBS() {
 		System.out.println("======Connect To DB,ConfigReport=======");
 		dlib.getConnectionOfDatabase();
+		System.out.println("++=yuuu++");
 	}
 	
 	
